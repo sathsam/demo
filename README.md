@@ -1,3 +1,3 @@
 # Heading
 This is a sentence.
-This s another sentence. 
+This is another sentence. 
